@@ -8042,6 +8042,11 @@ vue-cli-plugin-pug@^1.0.7:
     pug-plain-loader "^1.0.0"
     raw-loader "^0.5.1"
 
+vue-cli-plugin-scss-base@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/vue-cli-plugin-scss-base/-/vue-cli-plugin-scss-base-0.2.2.tgz#5664660f4a69ee4871a6c3e10eef453e5443b4a0"
+  integrity sha512-HGaMcwQUIQT0sh3L6eNwmbHX5b8g1rVUBDhEtpGH1xWw/GQEnlonuh/xJ/SDgzVBSyp4Z2R5cUF/14UTilYuBg==
+
 vue-eslint-parser@^2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/vue-eslint-parser/-/vue-eslint-parser-2.0.3.tgz#c268c96c6d94cfe3d938a5f7593959b0ca3360d1"
